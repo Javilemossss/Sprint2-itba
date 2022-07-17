@@ -1,0 +1,59 @@
+
+body{
+    font-size: 15px;
+    text-align: center;
+    background-image: url(./Prueba2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+body form{
+    padding: 50px;      
+
+}
+.indicacion{
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+body input{
+    box-shadow: 5px 2px 5px black;
+    font-size: 15px;
+        
+}
+.gasto{
+    margin-top: 5px;
+    display: flexbox;
+    align-items: center;
+}
+.nombre{
+    display: flexbox;
+    align-items: center;
+}
+
+body li{
+    list-style: none;
+    text-align: left;
+    background-color: rgba(100, 58, 147, 0.335);
+    margin: 0px;
+	padding: 0px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 15px;
+    block-size: 40px;
+    text-indent: 20px;
+
+}
+body ul{
+    margin: 0px;
+    margin-top: 5px;
+	padding: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.total{
+    font-weight: 700;
+}
+.cadauno{
+    font-weight: 700;
+}
